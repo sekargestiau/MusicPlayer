@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 rootProject.name = "Music Player"
 include ':app'
+=======
+rootProject.name = "Music Player"
+include ':app'
+>>>>>>> 04e63b2fd4845e5dee240b4cb6a57176deb60501
